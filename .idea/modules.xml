@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Python_Basic/.idea/Python_Basic.iml" filepath="$PROJECT_DIR$/../Python_Basic/.idea/Python_Basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/tic_tac_toe.iml" filepath="$PROJECT_DIR$/.idea/tic_tac_toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tic_tac_toe_project/.idea/tic_tac_toe_project.iml" filepath="$PROJECT_DIR$/../tic_tac_toe_project/.idea/tic_tac_toe_project.iml" />
     </modules>
   </component>
 </project>
